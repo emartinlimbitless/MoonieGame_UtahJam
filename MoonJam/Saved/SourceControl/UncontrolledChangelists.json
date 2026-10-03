@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Keenan/Documents/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_MoonLakePlayer.uasset",
+				"C:/Users/Keenan/Documents/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_TestMonster.uasset",
+				"C:/Users/Keenan/Documents/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_MoonLakeMinigame.uasset",
+				"C:/Users/Keenan/Documents/GitHub/MoonieGame_UtahJam/MoonJam/Content/MoonLakeGame.umap",
+				"C:/Users/Keenan/Documents/GitHub/MoonieGame_UtahJam/MoonJam/Content/M_MonsterColor.uasset",
+				"C:/Users/Keenan/Documents/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_MonsterSpawner.uasset",
+				"C:/Users/Keenan/Documents/GitHub/MoonieGame_UtahJam/MoonJam/Plugins/MinigameCore/Content/Game/BP_MoonLakeMinigame.uasset",
 				"C:/MoonJam/Content/MoonLakeGame.umap",
 				"C:/MoonieJam/MoonieGame_UtahJam/MoonJam/Content/BP_MoonLakeBase.uasset",
 				"C:/MoonieJam/MoonieGame_UtahJam/MoonJam/Content/MoonLakeGame.umap",
