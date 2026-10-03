@@ -1,6 +1,11 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+MoonJam/Saved/*
+MoonJam/Saved/Logs/*
+
+MoonJam/Intermediate/*
+
 # Compiled Object files
 *.slo
 *.lo
