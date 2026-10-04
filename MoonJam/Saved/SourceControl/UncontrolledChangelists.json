@@ -5,6 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Mesh/sm_log.uasset",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Textures/t_orm_log.uasset",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Materials/MI_Log.uasset",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Mesh/sm_campfire.uasset",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Textures/t_c_log.uasset",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Textures/t_n_log.uasset",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/ArtTest.umap",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Materials/MI_ShadowBoat.uasset",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Materials/MI_FallenLog.uasset",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Mesh/sm_shadowboat.uasset",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Textures/t_c_shadowboat.uasset",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Textures/t_orm_shadowboat.uasset",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_BoatN.uasset",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Textures/t_n_shadowboat.uasset",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Materials/MI_Fire.uasset",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Materials/M_Fire.uasset",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Materials/MI_FireTS.uasset",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/MoonLakeProgramming.umap",
+				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Mesh/sm_campfire2.uasset",
 				"C:/MoonJam/Content/MoonLakeGame.umap",
 				"C:/MoonieJam/MoonieGame_UtahJam/MoonJam/Content/BP_MoonLakeBase.uasset",
 				"C:/MoonieJam/MoonieGame_UtahJam/MoonJam/Content/MoonLakeGame.umap",
@@ -13,13 +32,7 @@
 				"C:/VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_Boat.uasset",
 				"C:/VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/MoonLakeGame.umap",
 				"C:/VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_MoonLakePlayer.uasset",
-				"C:/VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_BoatN.uasset",
-				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Mesh/sm_log.uasset",
-				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Textures/t_orm_log.uasset",
-				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Materials/MI_Log.uasset",
-				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Mesh/sm_campfire.uasset",
-				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Textures/t_c_log.uasset",
-				"D:/Games/GitHub/MoonieGame_UtahJam/MoonJam/Content/Assets/Textures/t_n_log.uasset"
+				"C:/VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_BoatN.uasset"
 			]
 		}
 	]
