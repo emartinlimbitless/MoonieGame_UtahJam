@@ -10911,3 +10911,1250 @@ Make sure '/Game/BP_BoatN.BP_BoatN_C' has been compiled for  Get Players
 [2026.10.04-07.48.03:138][735]AssetCheck: /Game/MoonLakeGame Validating asset
 [2026.10.04-07.48.03:138][735]AssetCheck: /Game/BP_MoonLakePlayer Validating asset
 [2026.10.04-07.48.03:139][735]AssetCheck: /Game/BP_BoatN Validating asset
+[2026.10.04-07.54.27:849][410]LogDerivedDataCache: C:/Users/Nathan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.10.04-08.54.27:919][209]LogDerivedDataCache: C:/Users/Nathan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.10.04-09.54.27:988][  7]LogDerivedDataCache: C:/Users/Nathan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.10.04-10.54.28:073][805]LogDerivedDataCache: C:/Users/Nathan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.10.04-11.54.28:151][603]LogDerivedDataCache: C:/Users/Nathan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.10.04-12.54.28:222][401]LogDerivedDataCache: C:/Users/Nathan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.10.04-13.54.28:290][199]LogDerivedDataCache: C:/Users/Nathan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.10.04-14.54.28:363][998]LogDerivedDataCache: C:/Users/Nathan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.10.04-15.30.18:815][625]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.04-15.30.18:823][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.04-15.30.18:864][625]LogPlayLevel: Display: Creating online subsystem for client :Context_75
+[2026.10.04-15.30.18:867][625]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2026.10.04-15.30.18:884][626]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MoonLakeGame
+[2026.10.04-15.30.18:887][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002819s)
+[2026.10.04-15.30.18:887][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MoonLakeGame.MoonLakeGame to /Game/UEDPIE_0_MoonLakeGame.MoonLakeGame (0.002866s)
+[2026.10.04-15.30.18:911][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2026.10.04-15.30.18:915][626]LogTemp: WinRT Apartment initialized successfully!
+[2026.10.04-15.30.18:915][626]LogChaosDD: Creating Chaos Debug Draw Scene for world MoonLakeGame
+[2026.10.04-15.30.18:917][626]LogPlayLevel: PIE: World Init took: (0.001659s)
+[2026.10.04-15.30.18:918][626]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2026.10.04-15.30.18:918][626]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.04-15.30.18:918][626]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.04-15.30.18:918][626]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.04-15.30.18:918][626]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.04-15.30.18:918][626]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.04-15.30.18:918][626]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.04-15.30.18:918][626]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.04-15.30.18:918][626]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.04-15.30.18:918][626]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.04-15.30.18:918][626]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.04-15.30.18:918][626]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.04-15.30.18:920][626]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.04-15.30.18:941][626]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HGF (NVIDIA High Definition Audio)
+[2026.10.04-15.30.18:941][626]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.04-15.30.18:941][626]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.04-15.30.18:941][626]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.04-15.30.18:941][626]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2026.10.04-15.30.18:942][626]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=63
+[2026.10.04-15.30.18:944][626]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2026.10.04-15.30.18:944][626]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2026.10.04-15.30.18:944][626]LogInit: FAudioDevice initialized with ID 63.
+[2026.10.04-15.30.18:944][626]LogAudio: Display: Audio Device (ID: 63) registered with world 'MoonLakeGame'.
+[2026.10.04-15.30.18:944][626]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 63
+[2026.10.04-15.30.18:948][626]LogLoad: Game class is 'BP_MoonLakeBase_C'
+[2026.10.04-15.30.18:950][626]LogWorld: Bringing World /Game/UEDPIE_0_MoonLakeGame.MoonLakeGame up for play (max tick rate 0) at 2026.10.04-11.30.18
+[2026.10.04-15.30.18:950][626]LogWorld: Bringing up level for play took: 0.001262
+[2026.10.04-15.30.18:950][626]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2026.10.04-15.30.18:950][626]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.04-15.30.18:951][626]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.10.04-15.30.18:951][626]LogMinigameCore: Error: MinigameBase: Not enough players for this game type!
+[2026.10.04-15.30.18:951][626]LogMinigameCore: Warning: MinigameBase: No point counter found. Creating default point counter.
+[2026.10.04-15.30.18:951][626]LogTemp: Warning: Minigame Base Player 0: Found player BashLocalPlayer_61 and controller BashPlayerController_0
+[2026.10.04-15.30.18:955][626]PIE: Server logged in
+[2026.10.04-15.30.18:957][626]PIE: Play in editor total start time 0.135 seconds.
+[2026.10.04-15.30.18:962][626]LogMutable: Started Update Skeletal Mesh Async. CustomizableObject=CO_ModularCharacter Instance=CustomizableObjectInstance_61, Frame=2129628
+[2026.10.04-15.30.19:014][627]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.04-15.30.20:986][804]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.20:997][805]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:009][806]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:021][807]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:031][808]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:042][809]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:052][810]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:063][811]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:074][812]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:085][813]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:094][814]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:103][815]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:115][816]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:456][847]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:467][848]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:477][849]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:487][850]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:495][851]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:506][852]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:516][853]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:526][854]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:537][855]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:546][856]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:557][857]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:570][858]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:581][859]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:590][860]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:600][861]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:612][862]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:622][863]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:633][864]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:645][865]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.21:655][866]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:177][914]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:188][915]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:200][916]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:213][917]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:224][918]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:238][919]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:249][920]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:261][921]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:274][922]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:287][923]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:444][936]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:456][937]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:469][938]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:484][939]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:501][940]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:518][941]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:530][942]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:543][943]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:555][944]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:565][945]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:576][946]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:588][947]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:599][948]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:828][969]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:838][970]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:847][971]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:859][972]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:868][973]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:878][974]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:887][975]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:898][976]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:908][977]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:919][978]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.22:929][979]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:280][ 13]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:290][ 14]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:300][ 15]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:309][ 16]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:319][ 17]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:330][ 18]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:339][ 19]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:349][ 20]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:359][ 21]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:371][ 22]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:381][ 23]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:391][ 24]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:401][ 25]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:413][ 26]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:423][ 27]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:434][ 28]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:444][ 29]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:455][ 30]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:464][ 31]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.23:474][ 32]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.30.27:655][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.30.27:655][438]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MoonLakeGame
+[2026.10.04-15.30.27:655][438]LogTemp: Warning: Deinitialize Bluetooth Manager Subsystem
+[2026.10.04-15.30.27:655][438]LogWorld: UWorld::CleanupWorld for MoonLakeGame, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-15.30.27:655][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.30.27:659][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.04-15.30.27:664][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.30.27:687][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.30.27:687][438]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 63
+[2026.10.04-15.30.27:688][438]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63, StreamState=4
+[2026.10.04-15.30.27:689][438]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63, StreamState=2
+[2026.10.04-15.30.27:696][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.10.04-15.30.27:748][439]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2026.10.04-15.30.44:551][787]LogContentBrowser: Attempting asset rename: BP_BoatN -> BP_Boat
+[2026.10.04-15.30.44:678][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.04-15.30.44:678][787]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Boat] ([2] browsable assets)...
+[2026.10.04-15.30.44:678][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Boat]
+[2026.10.04-15.30.44:678][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Boat" FILE="../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_Boat.uasset" SILENT=true
+[2026.10.04-15.30.44:692][787]LogSavePackage: Moving output files for package: /Game/BP_Boat
+[2026.10.04-15.30.44:692][787]LogSavePackage: Moving '../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Saved/BP_BoatE82596C84CD70BE885747890AF2CCF3C.tmp' to '../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_Boat.uasset'
+[2026.10.04-15.30.44:707][787]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_BoatN] ([5] browsable assets)...
+[2026.10.04-15.30.44:707][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_BoatN]
+[2026.10.04-15.30.44:707][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BoatN" FILE="../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_BoatN.uasset" SILENT=true
+[2026.10.04-15.30.44:713][787]LogSavePackage: Moving output files for package: /Game/BP_BoatN
+[2026.10.04-15.30.44:713][787]LogSavePackage: Moving '../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Saved/BP_BoatNB95573CC4D7F444971162C86F88A8790.tmp' to '../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_BoatN.uasset'
+[2026.10.04-15.30.44:717][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.761 ms (total: 922.814 ms)
+[2026.10.04-15.30.44:773][787]LogContentValidation: Display: Starting to validate 4 assets
+[2026.10.04-15.30.44:773][787]LogContentValidation: Enabled validators:
+[2026.10.04-15.30.44:773][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.04-15.30.44:773][787]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.04-15.30.44:773][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.04-15.30.44:773][787]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.04-15.30.44:773][787]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.04-15.30.44:773][787]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.04-15.30.44:773][787]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.04-15.30.44:773][787]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.04-15.30.44:773][787]AssetCheck: /Game/BP_Boat Validating asset
+[2026.10.04-15.30.44:773][787]AssetCheck: /Game/BP_BoatN Validating asset
+[2026.10.04-15.30.44:774][787]AssetCheck: /Game/BP_BoatN Validating asset
+[2026.10.04-15.30.44:774][787]AssetCheck: /Game/BP_BoatN Validating asset
+[2026.10.04-15.30.46:859][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.10.04-15.31.33:346][754]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.04-15.31.33:362][754]LogPlayLevel: [PlayLevel] Compiling BP_Boat before play...
+[2026.10.04-15.31.33:454][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.10.04-15.31.33:459][754]LogPlayLevel: PlayLevel: Blueprint regeneration took 105 ms (1 blueprints)
+[2026.10.04-15.31.33:460][754]LogPlayLevel: Display: Creating online subsystem for client :Context_76
+[2026.10.04-15.31.33:462][754]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2026.10.04-15.31.33:486][755]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MoonLakeGame
+[2026.10.04-15.31.33:489][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003107s)
+[2026.10.04-15.31.33:489][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MoonLakeGame.MoonLakeGame to /Game/UEDPIE_0_MoonLakeGame.MoonLakeGame (0.003160s)
+[2026.10.04-15.31.33:513][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.10.04-15.31.33:517][755]LogTemp: WinRT Apartment initialized successfully!
+[2026.10.04-15.31.33:517][755]LogChaosDD: Creating Chaos Debug Draw Scene for world MoonLakeGame
+[2026.10.04-15.31.33:519][755]LogPlayLevel: PIE: World Init took: (0.001700s)
+[2026.10.04-15.31.33:520][755]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2026.10.04-15.31.33:520][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.04-15.31.33:520][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.04-15.31.33:520][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.04-15.31.33:520][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.04-15.31.33:520][755]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.04-15.31.33:520][755]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.04-15.31.33:520][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.04-15.31.33:520][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.04-15.31.33:520][755]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.04-15.31.33:520][755]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.04-15.31.33:520][755]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.04-15.31.33:523][755]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.04-15.31.33:540][755]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HGF (NVIDIA High Definition Audio)
+[2026.10.04-15.31.33:541][755]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.04-15.31.33:541][755]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.04-15.31.33:541][755]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.04-15.31.33:541][755]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2026.10.04-15.31.33:541][755]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=64
+[2026.10.04-15.31.33:543][755]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2026.10.04-15.31.33:543][755]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2026.10.04-15.31.33:543][755]LogInit: FAudioDevice initialized with ID 64.
+[2026.10.04-15.31.33:543][755]LogAudio: Display: Audio Device (ID: 64) registered with world 'MoonLakeGame'.
+[2026.10.04-15.31.33:543][755]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 64
+[2026.10.04-15.31.33:547][755]LogLoad: Game class is 'BP_MoonLakeBase_C'
+[2026.10.04-15.31.33:548][755]LogWorld: Bringing World /Game/UEDPIE_0_MoonLakeGame.MoonLakeGame up for play (max tick rate 0) at 2026.10.04-11.31.33
+[2026.10.04-15.31.33:549][755]LogWorld: Bringing up level for play took: 0.000878
+[2026.10.04-15.31.33:549][755]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2026.10.04-15.31.33:549][755]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.04-15.31.33:549][755]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.10.04-15.31.33:549][755]LogMinigameCore: Error: MinigameBase: Not enough players for this game type!
+[2026.10.04-15.31.33:549][755]LogMinigameCore: Warning: MinigameBase: No point counter found. Creating default point counter.
+[2026.10.04-15.31.33:550][755]LogTemp: Warning: Minigame Base Player 0: Found player BashLocalPlayer_62 and controller BashPlayerController_0
+[2026.10.04-15.31.33:553][755]PIE: Server logged in
+[2026.10.04-15.31.33:555][755]PIE: Play in editor total start time 0.202 seconds.
+[2026.10.04-15.31.33:593][755]LogMutable: Started Update Skeletal Mesh Async. CustomizableObject=CO_ModularCharacter Instance=CustomizableObjectInstance_62, Frame=2136757
+[2026.10.04-15.31.33:613][756]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.04-15.31.35:671][860]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.35:689][861]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.35:704][862]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.35:719][863]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.35:735][864]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.35:747][865]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.35:762][866]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.35:778][867]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.35:792][868]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.35:809][869]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.35:824][870]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.35:840][871]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.35:856][872]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.35:870][873]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.35:888][874]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.35:905][875]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.35:922][876]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:279][897]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:291][898]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:306][899]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:324][900]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:342][901]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:359][902]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:377][903]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:393][904]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:410][905]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:426][906]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:443][907]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:461][908]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:480][909]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:496][910]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:510][911]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:528][912]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.36:547][913]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:022][941]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:037][942]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:056][943]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:073][944]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:093][945]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:111][946]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:129][947]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:148][948]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:167][949]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:183][950]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:202][951]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:219][952]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:237][953]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:254][954]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:275][955]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:294][956]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:313][957]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:332][958]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:349][959]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:365][960]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:385][961]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:400][962]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:416][963]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:431][964]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:446][965]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:464][966]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:482][967]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:502][968]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:519][969]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:535][970]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:550][971]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:570][972]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:590][973]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:605][974]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:641][976]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:658][977]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:678][978]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:697][979]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:716][980]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:735][981]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:752][982]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:770][983]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:788][984]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:808][985]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:829][986]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:848][987]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:870][988]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:890][989]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:908][990]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:928][991]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:948][992]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:965][993]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.37:984][994]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:004][995]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:137][  2]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:157][  3]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:175][  4]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:194][  5]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:216][  6]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:228][  7]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:245][  8]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:265][  9]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:285][ 10]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:304][ 11]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:326][ 12]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:338][ 13]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:354][ 14]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:373][ 15]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:388][ 16]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:408][ 17]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:428][ 18]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:872][ 42]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:891][ 43]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:907][ 44]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:924][ 45]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:944][ 46]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:963][ 47]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:980][ 48]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.38:999][ 49]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:016][ 50]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:033][ 51]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:055][ 52]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:074][ 53]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:093][ 54]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:108][ 55]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:127][ 56]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:145][ 57]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:164][ 58]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:183][ 59]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:201][ 60]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:454][ 74]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:470][ 75]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:488][ 76]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:506][ 77]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:528][ 78]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:547][ 79]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:562][ 80]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:582][ 81]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:599][ 82]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:618][ 83]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:637][ 84]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:657][ 85]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:674][ 86]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:692][ 87]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:713][ 88]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:731][ 89]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:751][ 90]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:769][ 91]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:787][ 92]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:804][ 93]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.39:995][103]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:013][104]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:031][105]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:052][106]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:070][107]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:088][108]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:104][109]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:124][110]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:141][111]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:159][112]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:179][113]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:199][114]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:219][115]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:240][116]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:257][117]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:279][118]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:299][119]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:317][120]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:337][121]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:665][138]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:684][139]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:702][140]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:721][141]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:740][142]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:759][143]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:777][144]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:797][145]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:816][146]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:834][147]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:854][148]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:877][149]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:893][150]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:904][151]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:928][152]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:945][153]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.40:963][154]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.41:229][168]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.41:247][169]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.41:266][170]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.41:285][171]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.41:302][172]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.41:324][173]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.41:343][174]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.41:361][175]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.41:378][176]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.41:398][177]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.41:417][178]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.41:436][179]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.41:455][180]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.41:474][181]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.31.43:894][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.31.43:894][327]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MoonLakeGame
+[2026.10.04-15.31.43:894][327]LogTemp: Warning: Deinitialize Bluetooth Manager Subsystem
+[2026.10.04-15.31.43:894][327]LogWorld: UWorld::CleanupWorld for MoonLakeGame, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-15.31.43:895][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.31.43:898][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.04-15.31.43:903][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.31.43:927][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.31.43:927][327]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 64
+[2026.10.04-15.31.43:927][327]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64, StreamState=4
+[2026.10.04-15.31.43:929][327]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64, StreamState=2
+[2026.10.04-15.31.43:936][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.10.04-15.31.43:988][328]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2026.10.04-15.31.54:406][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.04-15.31.54:451][339]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Boat] ([2] browsable assets)...
+[2026.10.04-15.31.54:497][339]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Boat.BP_Boat]
+[2026.10.04-15.31.54:497][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Boat]
+[2026.10.04-15.31.54:497][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Boat" FILE="../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_Boat.uasset" SILENT=true
+[2026.10.04-15.31.54:512][339]LogSavePackage: Moving output files for package: /Game/BP_Boat
+[2026.10.04-15.31.54:512][339]LogSavePackage: Moving '../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Saved/BP_BoatCD152D044EA8D9F8D04F8986FF0B86FF.tmp' to '../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_Boat.uasset'
+[2026.10.04-15.31.54:525][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.770 ms (total: 1.04 sec)
+[2026.10.04-15.31.54:566][339]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.04-15.31.54:566][339]LogContentValidation: Enabled validators:
+[2026.10.04-15.31.54:566][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.04-15.31.54:566][339]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.04-15.31.54:566][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.04-15.31.54:566][339]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.04-15.31.54:566][339]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.04-15.31.54:566][339]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.04-15.31.54:566][339]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.04-15.31.54:566][339]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.04-15.31.54:566][339]AssetCheck: /Game/BP_Boat Validating asset
+[2026.10.04-15.31.56:596][517]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.04-15.31.56:607][517]LogPlayLevel: [PlayLevel] Compiling BP_Boat before play...
+[2026.10.04-15.31.56:695][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.10.04-15.31.56:701][517]LogPlayLevel: PlayLevel: Blueprint regeneration took 95 ms (1 blueprints)
+[2026.10.04-15.31.56:733][517]LogPlayLevel: Display: Creating online subsystem for client :Context_77
+[2026.10.04-15.31.56:736][517]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2026.10.04-15.31.56:757][518]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MoonLakeGame
+[2026.10.04-15.31.56:760][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003227s)
+[2026.10.04-15.31.56:760][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MoonLakeGame.MoonLakeGame to /Game/UEDPIE_0_MoonLakeGame.MoonLakeGame (0.003272s)
+[2026.10.04-15.31.56:785][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.10.04-15.31.56:790][518]LogTemp: WinRT Apartment initialized successfully!
+[2026.10.04-15.31.56:790][518]LogChaosDD: Creating Chaos Debug Draw Scene for world MoonLakeGame
+[2026.10.04-15.31.56:791][518]LogPlayLevel: PIE: World Init took: (0.001757s)
+[2026.10.04-15.31.56:793][518]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2026.10.04-15.31.56:793][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.04-15.31.56:793][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.04-15.31.56:793][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.04-15.31.56:793][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.04-15.31.56:793][518]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.04-15.31.56:793][518]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.04-15.31.56:793][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.04-15.31.56:793][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.04-15.31.56:793][518]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.04-15.31.56:793][518]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.04-15.31.56:793][518]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.04-15.31.56:795][518]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.04-15.31.56:813][518]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HGF (NVIDIA High Definition Audio)
+[2026.10.04-15.31.56:813][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.04-15.31.56:813][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.04-15.31.56:813][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.04-15.31.56:814][518]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2026.10.04-15.31.56:814][518]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2026.10.04-15.31.56:817][518]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2026.10.04-15.31.56:817][518]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2026.10.04-15.31.56:817][518]LogInit: FAudioDevice initialized with ID 65.
+[2026.10.04-15.31.56:817][518]LogAudio: Display: Audio Device (ID: 65) registered with world 'MoonLakeGame'.
+[2026.10.04-15.31.56:817][518]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 65
+[2026.10.04-15.31.56:821][518]LogLoad: Game class is 'BP_MoonLakeBase_C'
+[2026.10.04-15.31.56:822][518]LogWorld: Bringing World /Game/UEDPIE_0_MoonLakeGame.MoonLakeGame up for play (max tick rate 0) at 2026.10.04-11.31.56
+[2026.10.04-15.31.56:822][518]LogWorld: Bringing up level for play took: 0.000995
+[2026.10.04-15.31.56:823][518]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2026.10.04-15.31.56:823][518]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.04-15.31.56:823][518]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.10.04-15.31.56:823][518]LogMinigameCore: Error: MinigameBase: Not enough players for this game type!
+[2026.10.04-15.31.56:823][518]LogMinigameCore: Warning: MinigameBase: No point counter found. Creating default point counter.
+[2026.10.04-15.31.56:823][518]LogTemp: Warning: Minigame Base Player 0: Found player BashLocalPlayer_63 and controller BashPlayerController_0
+[2026.10.04-15.31.56:826][518]PIE: Server logged in
+[2026.10.04-15.31.56:828][518]PIE: Play in editor total start time 0.223 seconds.
+[2026.10.04-15.31.56:867][518]LogMutable: Started Update Skeletal Mesh Async. CustomizableObject=CO_ModularCharacter Instance=CustomizableObjectInstance_63, Frame=2138520
+[2026.10.04-15.31.56:891][519]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.04-15.31.59:444][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.31.59:444][731]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MoonLakeGame
+[2026.10.04-15.31.59:444][731]LogTemp: Warning: Deinitialize Bluetooth Manager Subsystem
+[2026.10.04-15.31.59:444][731]LogWorld: UWorld::CleanupWorld for MoonLakeGame, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-15.31.59:444][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.31.59:447][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.04-15.31.59:453][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.31.59:474][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.31.59:475][731]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 65
+[2026.10.04-15.31.59:475][731]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65, StreamState=4
+[2026.10.04-15.31.59:478][731]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65, StreamState=2
+[2026.10.04-15.31.59:484][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.10.04-15.31.59:536][732]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2026.10.04-15.32.13:136][842]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.04-15.32.13:144][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.04-15.32.13:144][842]LogPlayLevel: Display: Creating online subsystem for client :Context_78
+[2026.10.04-15.32.13:146][842]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2026.10.04-15.32.13:168][843]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MoonLakeGame
+[2026.10.04-15.32.13:171][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003094s)
+[2026.10.04-15.32.13:171][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MoonLakeGame.MoonLakeGame to /Game/UEDPIE_0_MoonLakeGame.MoonLakeGame (0.003140s)
+[2026.10.04-15.32.13:197][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.10.04-15.32.13:203][843]LogTemp: WinRT Apartment initialized successfully!
+[2026.10.04-15.32.13:203][843]LogChaosDD: Creating Chaos Debug Draw Scene for world MoonLakeGame
+[2026.10.04-15.32.13:205][843]LogPlayLevel: PIE: World Init took: (0.001638s)
+[2026.10.04-15.32.13:206][843]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2026.10.04-15.32.13:206][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.04-15.32.13:206][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.04-15.32.13:206][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.04-15.32.13:206][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.04-15.32.13:206][843]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.04-15.32.13:206][843]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.04-15.32.13:206][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.04-15.32.13:206][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.04-15.32.13:206][843]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.04-15.32.13:206][843]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.04-15.32.13:206][843]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.04-15.32.13:208][843]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.04-15.32.13:225][843]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HGF (NVIDIA High Definition Audio)
+[2026.10.04-15.32.13:225][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.04-15.32.13:225][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.04-15.32.13:225][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.04-15.32.13:226][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=66
+[2026.10.04-15.32.13:226][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=66
+[2026.10.04-15.32.13:228][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=66
+[2026.10.04-15.32.13:228][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=66
+[2026.10.04-15.32.13:228][843]LogInit: FAudioDevice initialized with ID 66.
+[2026.10.04-15.32.13:228][843]LogAudio: Display: Audio Device (ID: 66) registered with world 'MoonLakeGame'.
+[2026.10.04-15.32.13:228][843]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 66
+[2026.10.04-15.32.13:232][843]LogLoad: Game class is 'BP_MoonLakeBase_C'
+[2026.10.04-15.32.13:234][843]LogWorld: Bringing World /Game/UEDPIE_0_MoonLakeGame.MoonLakeGame up for play (max tick rate 0) at 2026.10.04-11.32.13
+[2026.10.04-15.32.13:234][843]LogWorld: Bringing up level for play took: 0.001249
+[2026.10.04-15.32.13:234][843]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2026.10.04-15.32.13:235][843]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.04-15.32.13:235][843]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.10.04-15.32.13:235][843]LogMinigameCore: Error: MinigameBase: Not enough players for this game type!
+[2026.10.04-15.32.13:235][843]LogMinigameCore: Warning: MinigameBase: No point counter found. Creating default point counter.
+[2026.10.04-15.32.13:236][843]LogTemp: Warning: Minigame Base Player 0: Found player BashLocalPlayer_64 and controller BashPlayerController_0
+[2026.10.04-15.32.13:238][843]PIE: Server logged in
+[2026.10.04-15.32.13:240][843]PIE: Play in editor total start time 0.096 seconds.
+[2026.10.04-15.32.13:245][843]LogMutable: Started Update Skeletal Mesh Async. CustomizableObject=CO_ModularCharacter Instance=CustomizableObjectInstance_64, Frame=2139845
+[2026.10.04-15.32.13:292][844]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.04-15.32.15:643][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.32.15:643][ 48]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MoonLakeGame
+[2026.10.04-15.32.15:644][ 48]LogTemp: Warning: Deinitialize Bluetooth Manager Subsystem
+[2026.10.04-15.32.15:644][ 48]LogWorld: UWorld::CleanupWorld for MoonLakeGame, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-15.32.15:644][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.32.15:648][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.04-15.32.15:653][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.32.15:676][ 48]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.04-15.32.15:677][ 48]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 66
+[2026.10.04-15.32.15:677][ 48]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66, StreamState=4
+[2026.10.04-15.32.15:679][ 48]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66, StreamState=2
+[2026.10.04-15.32.15:682][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.32.15:685][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.10.04-15.32.15:735][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2026.10.04-15.32.24:818][790]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.04-15.32.24:827][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.04-15.32.24:827][790]LogPlayLevel: Display: Creating online subsystem for client :Context_79
+[2026.10.04-15.32.24:829][790]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2026.10.04-15.32.24:851][791]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MoonLakeGame
+[2026.10.04-15.32.24:854][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003125s)
+[2026.10.04-15.32.24:854][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MoonLakeGame.MoonLakeGame to /Game/UEDPIE_0_MoonLakeGame.MoonLakeGame (0.003179s)
+[2026.10.04-15.32.24:880][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.10.04-15.32.24:884][791]LogTemp: WinRT Apartment initialized successfully!
+[2026.10.04-15.32.24:884][791]LogChaosDD: Creating Chaos Debug Draw Scene for world MoonLakeGame
+[2026.10.04-15.32.24:886][791]LogPlayLevel: PIE: World Init took: (0.001723s)
+[2026.10.04-15.32.24:887][791]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2026.10.04-15.32.24:887][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.04-15.32.24:887][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.04-15.32.24:887][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.04-15.32.24:887][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.04-15.32.24:887][791]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.04-15.32.24:887][791]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.04-15.32.24:887][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.04-15.32.24:887][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.04-15.32.24:887][791]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.04-15.32.24:887][791]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.04-15.32.24:887][791]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.04-15.32.24:889][791]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.04-15.32.24:907][791]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HGF (NVIDIA High Definition Audio)
+[2026.10.04-15.32.24:907][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.04-15.32.24:907][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.04-15.32.24:907][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.04-15.32.24:908][791]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=67
+[2026.10.04-15.32.24:908][791]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=67
+[2026.10.04-15.32.24:910][791]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=67
+[2026.10.04-15.32.24:912][791]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=67
+[2026.10.04-15.32.24:912][791]LogInit: FAudioDevice initialized with ID 67.
+[2026.10.04-15.32.24:912][791]LogAudio: Display: Audio Device (ID: 67) registered with world 'MoonLakeGame'.
+[2026.10.04-15.32.24:912][791]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 67
+[2026.10.04-15.32.24:916][791]LogLoad: Game class is 'BP_MoonLakeBase_C'
+[2026.10.04-15.32.24:917][791]LogWorld: Bringing World /Game/UEDPIE_0_MoonLakeGame.MoonLakeGame up for play (max tick rate 0) at 2026.10.04-11.32.24
+[2026.10.04-15.32.24:917][791]LogWorld: Bringing up level for play took: 0.001087
+[2026.10.04-15.32.24:918][791]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2026.10.04-15.32.24:918][791]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.04-15.32.24:918][791]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.10.04-15.32.24:918][791]LogMinigameCore: Error: MinigameBase: Not enough players for this game type!
+[2026.10.04-15.32.24:918][791]LogMinigameCore: Warning: MinigameBase: No point counter found. Creating default point counter.
+[2026.10.04-15.32.24:919][791]LogTemp: Warning: Minigame Base Player 0: Found player BashLocalPlayer_65 and controller BashPlayerController_0
+[2026.10.04-15.32.24:922][791]PIE: Server logged in
+[2026.10.04-15.32.24:924][791]PIE: Play in editor total start time 0.098 seconds.
+[2026.10.04-15.32.24:928][791]LogMutable: Started Update Skeletal Mesh Async. CustomizableObject=CO_ModularCharacter Instance=CustomizableObjectInstance_65, Frame=2140793
+[2026.10.04-15.32.24:977][792]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.04-15.32.26:538][934]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.26:550][935]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.26:559][936]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.26:571][937]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.26:582][938]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.26:593][939]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.26:605][940]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.26:615][941]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.26:627][942]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.26:639][943]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.26:650][944]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.26:661][945]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.26:968][973]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.26:980][974]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.26:991][975]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:000][976]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:010][977]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:020][978]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:035][979]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:047][980]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:057][981]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:068][982]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:078][983]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:089][984]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:367][ 10]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:378][ 11]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:388][ 12]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:398][ 13]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:409][ 14]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:419][ 15]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:429][ 16]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:439][ 17]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:449][ 18]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:461][ 19]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:471][ 20]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:743][ 46]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:754][ 47]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:764][ 48]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:774][ 49]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:785][ 50]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:795][ 51]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:804][ 52]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:815][ 53]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:825][ 54]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:835][ 55]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:847][ 56]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.27:857][ 57]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.28:248][ 93]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.28:257][ 94]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.28:268][ 95]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.28:278][ 96]LogBlueprintUserMessages: [BP_MoonLakePlayer_C_0] No boat found
+[2026.10.04-15.32.29:304][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.32.29:304][186]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MoonLakeGame
+[2026.10.04-15.32.29:304][186]LogTemp: Warning: Deinitialize Bluetooth Manager Subsystem
+[2026.10.04-15.32.29:304][186]LogWorld: UWorld::CleanupWorld for MoonLakeGame, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-15.32.29:304][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.32.29:308][186]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.04-15.32.29:313][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.32.29:337][186]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.04-15.32.29:337][186]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 67
+[2026.10.04-15.32.29:337][186]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67, StreamState=4
+[2026.10.04-15.32.29:339][186]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67, StreamState=2
+[2026.10.04-15.32.29:343][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.32.29:345][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.10.04-15.32.29:397][187]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2026.10.04-15.32.45:218][491]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.04-15.32.45:226][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.04-15.32.45:253][491]LogPlayLevel: Display: Creating online subsystem for client :Context_80
+[2026.10.04-15.32.45:255][491]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2026.10.04-15.32.45:276][492]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MoonLakeGame
+[2026.10.04-15.32.45:280][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003538s)
+[2026.10.04-15.32.45:280][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MoonLakeGame.MoonLakeGame to /Game/UEDPIE_0_MoonLakeGame.MoonLakeGame (0.003599s)
+[2026.10.04-15.32.45:306][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.10.04-15.32.45:312][492]LogTemp: WinRT Apartment initialized successfully!
+[2026.10.04-15.32.45:312][492]LogChaosDD: Creating Chaos Debug Draw Scene for world MoonLakeGame
+[2026.10.04-15.32.45:314][492]LogPlayLevel: PIE: World Init took: (0.001621s)
+[2026.10.04-15.32.45:315][492]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2026.10.04-15.32.45:315][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.04-15.32.45:315][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.04-15.32.45:315][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.04-15.32.45:315][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.04-15.32.45:315][492]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.04-15.32.45:315][492]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.04-15.32.45:315][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.04-15.32.45:315][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.04-15.32.45:315][492]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.04-15.32.45:315][492]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.04-15.32.45:315][492]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.04-15.32.45:317][492]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.04-15.32.45:336][492]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HGF (NVIDIA High Definition Audio)
+[2026.10.04-15.32.45:336][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.04-15.32.45:336][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.04-15.32.45:336][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.04-15.32.45:337][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=68
+[2026.10.04-15.32.45:337][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=68
+[2026.10.04-15.32.45:340][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=68
+[2026.10.04-15.32.45:340][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=68
+[2026.10.04-15.32.45:340][492]LogInit: FAudioDevice initialized with ID 68.
+[2026.10.04-15.32.45:340][492]LogAudio: Display: Audio Device (ID: 68) registered with world 'MoonLakeGame'.
+[2026.10.04-15.32.45:340][492]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 68
+[2026.10.04-15.32.45:344][492]LogLoad: Game class is 'BP_MoonLakeBase_C'
+[2026.10.04-15.32.45:345][492]LogWorld: Bringing World /Game/UEDPIE_0_MoonLakeGame.MoonLakeGame up for play (max tick rate 0) at 2026.10.04-11.32.45
+[2026.10.04-15.32.45:346][492]LogWorld: Bringing up level for play took: 0.000995
+[2026.10.04-15.32.45:346][492]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2026.10.04-15.32.45:346][492]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.04-15.32.45:346][492]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.10.04-15.32.45:346][492]LogMinigameCore: Error: MinigameBase: Not enough players for this game type!
+[2026.10.04-15.32.45:346][492]LogMinigameCore: Warning: MinigameBase: No point counter found. Creating default point counter.
+[2026.10.04-15.32.45:347][492]LogTemp: Warning: Minigame Base Player 0: Found player BashLocalPlayer_66 and controller BashPlayerController_0
+[2026.10.04-15.32.45:350][492]PIE: Server logged in
+[2026.10.04-15.32.45:352][492]PIE: Play in editor total start time 0.127 seconds.
+[2026.10.04-15.32.45:356][492]LogMutable: Started Update Skeletal Mesh Async. CustomizableObject=CO_ModularCharacter Instance=CustomizableObjectInstance_66, Frame=2142494
+[2026.10.04-15.32.45:407][493]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.04-15.32.53:633][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.32.53:633][224]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MoonLakeGame
+[2026.10.04-15.32.53:634][224]LogTemp: Warning: Deinitialize Bluetooth Manager Subsystem
+[2026.10.04-15.32.53:634][224]LogWorld: UWorld::CleanupWorld for MoonLakeGame, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-15.32.53:634][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.32.53:637][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.04-15.32.53:642][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.32.53:663][224]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.04-15.32.53:664][224]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 68
+[2026.10.04-15.32.53:664][224]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68, StreamState=4
+[2026.10.04-15.32.53:666][224]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68, StreamState=2
+[2026.10.04-15.32.53:670][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.32.53:672][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.10.04-15.32.53:721][225]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2026.10.04-15.32.59:478][622]LogContentBrowser: Deferred new asset file creation: MoonLakeGame1
+[2026.10.04-15.32.59:489][622]LogContentBrowser: Creating deferred item: MoonLakeGame1
+[2026.10.04-15.32.59:506][623]LogContentBrowser: Renaming the item being created (Deferred Item: MoonLakeGame1).
+[2026.10.04-15.33.00:534][713]LogContentBrowser: Attempting asset rename: MoonLakeGame1 -> MoonLakeGame1
+[2026.10.04-15.33.00:539][713]LogChaosDD: Creating Chaos Debug Draw Scene for world MoonLakeGame1
+[2026.10.04-15.33.00:544][713]LogContentBrowser: End creating deferred item MoonLakeGame1
+[2026.10.04-15.33.14:809][838]LogContentBrowser: Attempting asset rename: MoonLakeGame1 -> MoonLakeBoatTest
+[2026.10.04-15.33.14:897][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.04-15.33.14:898][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MoonLakeBoatTest" FILE="../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/MoonLakeBoatTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.10.04-15.33.14:929][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.10.04-15.33.14:950][838]LogSavePackage: Moving output files for package: /Game/MoonLakeBoatTest
+[2026.10.04-15.33.14:950][838]LogSavePackage: Moving '../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Saved/MoonLakeBoatTest879EF8E94527DE1B8870E58CD71FBB01.tmp' to '../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/MoonLakeBoatTest.umap'
+[2026.10.04-15.33.14:957][838]LogFileHelpers: Saving map 'MoonLakeBoatTest' took 0.060
+[2026.10.04-15.33.14:957][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.486 ms (total: 1.10 sec)
+[2026.10.04-15.33.14:993][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.10.04-15.33.15:021][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.10.04-15.33.15:048][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.10.04-15.33.15:112][838]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.04-15.33.15:112][838]LogContentValidation: Enabled validators:
+[2026.10.04-15.33.15:112][838]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.04-15.33.15:112][838]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.04-15.33.15:112][838]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.04-15.33.15:112][838]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.04-15.33.15:112][838]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.04-15.33.15:112][838]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.04-15.33.15:112][838]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.04-15.33.15:112][838]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.04-15.33.15:112][838]AssetCheck: /Game/MoonLakeBoatTest Validating asset
+[2026.10.04-15.33.15:200][838]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.04-15.33.20:338][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.10.04-15.33.20:345][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.04-15.33.20:387][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MoonLakeGame" FILE="../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/MoonLakeGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.10.04-15.33.20:438][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.10.04-15.33.20:455][211]LogSavePackage: Moving output files for package: /Game/MoonLakeGame
+[2026.10.04-15.33.20:456][211]LogSavePackage: Moving '../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Saved/MoonLakeGameE70451374B56A5B2CF876381EBE064A2.tmp' to '../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/MoonLakeGame.umap'
+[2026.10.04-15.33.20:472][211]LogFileHelpers: Saving map 'MoonLakeGame' took 0.086
+[2026.10.04-15.33.20:472][211]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_MoonLakePlayer] ([2] browsable assets)...
+[2026.10.04-15.33.20:508][211]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_MoonLakePlayer.BP_MoonLakePlayer]
+[2026.10.04-15.33.20:509][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_MoonLakePlayer]
+[2026.10.04-15.33.20:509][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_MoonLakePlayer" FILE="../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_MoonLakePlayer.uasset" SILENT=true
+[2026.10.04-15.33.20:520][211]LogSavePackage: Moving output files for package: /Game/BP_MoonLakePlayer
+[2026.10.04-15.33.20:522][211]LogSavePackage: Moving '../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Saved/BP_MoonLakePlayer8C24FA2E46E4B027C8F8669B6BD4C4AD.tmp' to '../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/BP_MoonLakePlayer.uasset'
+[2026.10.04-15.33.20:538][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.558 ms (total: 1.29 sec)
+[2026.10.04-15.33.20:578][211]LogContentValidation: Display: Starting to validate 2 assets
+[2026.10.04-15.33.20:578][211]LogContentValidation: Enabled validators:
+[2026.10.04-15.33.20:578][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.04-15.33.20:578][211]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.04-15.33.20:578][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.04-15.33.20:578][211]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.04-15.33.20:578][211]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.04-15.33.20:578][211]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.04-15.33.20:578][211]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.04-15.33.20:578][211]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.04-15.33.20:579][211]AssetCheck: /Game/MoonLakeGame Validating asset
+[2026.10.04-15.33.20:579][211]AssetCheck: /Game/BP_MoonLakePlayer Validating asset
+[2026.10.04-15.36.44:644][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.10.04-15.36.44:651][231]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MoonLakeGame.MoonLakeGame
+[2026.10.04-15.36.44:651][231]Cmd: MAP LOAD FILE="../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/MoonLakeGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.04-15.36.44:682][231]LogWorld: UWorld::CleanupWorld for MoonLakeGame, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-15.36.44:682][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.36.44:704][231]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.04-15.36.44:708][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.10.04-15.36.44:711][231]LogWorld: UWorld::CleanupWorld for MoonLakeBoatTest, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-15.36.44:711][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.36.44:734][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.10.04-15.36.44:801][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.10.04-15.36.44:803][231]LogStreaming: Display: FlushAsyncLoading(738): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.04-15.36.44:809][231]LogAudio: Display: Audio Device (ID: 1) registered with world 'MoonLakeGame'.
+[2026.10.04-15.36.44:809][231]LogChaosDD: Creating Chaos Debug Draw Scene for world MoonLakeGame
+[2026.10.04-15.36.44:826][231]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.04-15.36.44:852][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.10.04-15.36.44:865][231]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.04-15.36.44:865][231]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.059ms to complete.
+[2026.10.04-15.36.44:969][233]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.04-15.36.45:900][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.10.04-15.36.45:904][302]LogStreaming: Display: FlushAsyncLoading(739): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.04-15.36.45:907][302]LogChaosDD: Creating Chaos Debug Draw Scene for world MoonLakeBoatTest
+[2026.10.04-15.36.45:912][302]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MoonLakeBoatTest.MoonLakeBoatTest
+[2026.10.04-15.36.45:912][302]Cmd: MAP LOAD FILE="../../../../../../VSC/GitHub/MoonieGame_UtahJam/MoonJam/Content/MoonLakeBoatTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.04-15.36.45:936][302]LogWorld: UWorld::CleanupWorld for MoonLakeGame, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-15.36.45:937][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.36.45:960][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.04-15.36.45:963][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.10.04-15.36.45:966][302]LogWorld: UWorld::CleanupWorld for MoonLakeBoatTest, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-15.36.45:967][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.36.45:994][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.10.04-15.36.46:062][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.10.04-15.36.46:068][302]LogAudio: Display: Audio Device (ID: 1) registered with world 'MoonLakeBoatTest'.
+[2026.10.04-15.36.46:068][302]LogChaosDD: Creating Chaos Debug Draw Scene for world MoonLakeBoatTest
+[2026.10.04-15.36.46:083][302]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.04-15.36.46:111][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.10.04-15.36.46:123][302]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.04-15.36.46:123][302]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.055ms to complete.
+[2026.10.04-15.36.46:232][304]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.04-15.37.15:753][170]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.04-15.37.15:768][170]LogPlayLevel: [PlayLevel] Compiling BP_MoonLakePlayer before play...
+[2026.10.04-15.37.15:850][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.10.04-15.37.15:857][170]LogPlayLevel: PlayLevel: Blueprint regeneration took 94 ms (1 blueprints)
+[2026.10.04-15.37.15:857][170]LogPlayLevel: Display: Creating online subsystem for client :Context_81
+[2026.10.04-15.37.15:860][170]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2026.10.04-15.37.15:880][171]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MoonLakeBoatTest
+[2026.10.04-15.37.15:884][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004507s)
+[2026.10.04-15.37.15:884][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MoonLakeBoatTest.MoonLakeBoatTest to /Game/UEDPIE_0_MoonLakeBoatTest.MoonLakeBoatTest (0.004571s)
+[2026.10.04-15.37.15:912][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.10.04-15.37.15:915][171]LogTemp: WinRT Apartment initialized successfully!
+[2026.10.04-15.37.15:915][171]LogChaosDD: Creating Chaos Debug Draw Scene for world MoonLakeBoatTest
+[2026.10.04-15.37.15:917][171]LogPlayLevel: PIE: World Init took: (0.001749s)
+[2026.10.04-15.37.15:918][171]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2026.10.04-15.37.15:918][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.04-15.37.15:918][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.04-15.37.15:918][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.04-15.37.15:918][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.04-15.37.15:918][171]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.04-15.37.15:918][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.04-15.37.15:918][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.04-15.37.15:918][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.04-15.37.15:918][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.04-15.37.15:918][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.04-15.37.15:918][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.04-15.37.15:921][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.04-15.37.15:940][171]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HGF (NVIDIA High Definition Audio)
+[2026.10.04-15.37.15:940][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.04-15.37.15:940][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.04-15.37.15:940][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.04-15.37.15:941][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=69
+[2026.10.04-15.37.15:941][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=69
+[2026.10.04-15.37.15:944][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=69
+[2026.10.04-15.37.15:944][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=69
+[2026.10.04-15.37.15:944][171]LogInit: FAudioDevice initialized with ID 69.
+[2026.10.04-15.37.15:944][171]LogAudio: Display: Audio Device (ID: 69) registered with world 'MoonLakeBoatTest'.
+[2026.10.04-15.37.15:944][171]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 69
+[2026.10.04-15.37.15:948][171]LogLoad: Game class is 'BP_MoonLakeBase_C'
+[2026.10.04-15.37.15:949][171]LogWorld: Bringing World /Game/UEDPIE_0_MoonLakeBoatTest.MoonLakeBoatTest up for play (max tick rate 0) at 2026.10.04-11.37.15
+[2026.10.04-15.37.15:949][171]LogWorld: Bringing up level for play took: 0.000894
+[2026.10.04-15.37.15:949][171]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2026.10.04-15.37.15:950][171]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.04-15.37.15:950][171]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.10.04-15.37.15:950][171]LogMinigameCore: Error: MinigameBase: Not enough players for this game type!
+[2026.10.04-15.37.15:950][171]LogMinigameCore: Warning: MinigameBase: No point counter found. Creating default point counter.
+[2026.10.04-15.37.15:950][171]LogTemp: Warning: Minigame Base Player 0: Found player BashLocalPlayer_67 and controller BashPlayerController_0
+[2026.10.04-15.37.15:953][171]PIE: Server logged in
+[2026.10.04-15.37.15:955][171]PIE: Play in editor total start time 0.193 seconds.
+[2026.10.04-15.37.15:998][171]LogMutable: Started Update Skeletal Mesh Async. CustomizableObject=CO_ModularCharacter Instance=CustomizableObjectInstance_67, Frame=2152173
+[2026.10.04-15.37.16:022][172]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.04-15.37.28:640][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.37.28:641][286]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MoonLakeBoatTest
+[2026.10.04-15.37.28:641][286]LogTemp: Warning: Deinitialize Bluetooth Manager Subsystem
+[2026.10.04-15.37.28:641][286]LogWorld: UWorld::CleanupWorld for MoonLakeBoatTest, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-15.37.28:641][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.37.28:642][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.04-15.37.28:647][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.37.28:672][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.37.28:672][286]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 69
+[2026.10.04-15.37.28:672][286]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69, StreamState=4
+[2026.10.04-15.37.28:674][286]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69, StreamState=2
+[2026.10.04-15.37.28:681][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.10.04-15.37.28:713][287]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2026.10.04-15.37.35:001][836]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.04-15.37.35:008][836]LogUMGEditor: Disabling Slate Post Buffers for multi-window PIE session, currently not supported.
+[2026.10.04-15.37.35:008][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.04-15.37.35:010][836]PIE: Warning: Not enough login credentials to launch all PIE instances, change editor settings
+[2026.10.04-15.37.35:016][836]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.10.04-15.37.35:017][836]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.10.04-15.37.35:017][836]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MoonLakeBoatTest
+[2026.10.04-15.37.35:019][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002826s)
+[2026.10.04-15.37.35:019][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MoonLakeBoatTest.MoonLakeBoatTest to /Game/UEDPIE_0_MoonLakeBoatTest.MoonLakeBoatTest (0.002870s)
+[2026.10.04-15.37.35:044][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.10.04-15.37.35:048][836]LogTemp: WinRT Apartment initialized successfully!
+[2026.10.04-15.37.35:048][836]LogChaosDD: Creating Chaos Debug Draw Scene for world MoonLakeBoatTest
+[2026.10.04-15.37.35:050][836]LogPlayLevel: PIE: World Init took: (0.001558s)
+[2026.10.04-15.37.35:051][836]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2026.10.04-15.37.35:051][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.04-15.37.35:051][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.04-15.37.35:051][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.04-15.37.35:051][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.04-15.37.35:051][836]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.04-15.37.35:051][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.04-15.37.35:051][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.04-15.37.35:051][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.04-15.37.35:051][836]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.04-15.37.35:051][836]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.04-15.37.35:051][836]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.04-15.37.35:053][836]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.04-15.37.35:070][836]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HGF (NVIDIA High Definition Audio)
+[2026.10.04-15.37.35:070][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.04-15.37.35:070][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.04-15.37.35:070][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.04-15.37.35:071][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=70
+[2026.10.04-15.37.35:071][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=70
+[2026.10.04-15.37.35:073][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=70
+[2026.10.04-15.37.35:073][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=70
+[2026.10.04-15.37.35:073][836]LogInit: FAudioDevice initialized with ID 70.
+[2026.10.04-15.37.35:073][836]LogAudio: Display: Audio Device (ID: 70) registered with world 'MoonLakeBoatTest'.
+[2026.10.04-15.37.35:073][836]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 70
+[2026.10.04-15.37.35:077][836]LogLoad: Game class is 'BP_MoonLakeBase_C'
+[2026.10.04-15.37.35:078][836]LogWorld: Bringing World /Game/UEDPIE_0_MoonLakeBoatTest.MoonLakeBoatTest up for play (max tick rate 0) at 2026.10.04-11.37.35
+[2026.10.04-15.37.35:078][836]LogWorld: Bringing up level for play took: 0.001062
+[2026.10.04-15.37.35:081][836]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2026.10.04-15.37.35:081][836]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2026.10.04-15.37.35:081][836]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.04-15.37.35:081][836]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.10.04-15.37.35:081][836]LogMinigameCore: Error: MinigameBase: Not enough players for this game type!
+[2026.10.04-15.37.35:081][836]LogMinigameCore: Warning: MinigameBase: No point counter found. Creating default point counter.
+[2026.10.04-15.37.35:082][836]LogTemp: Warning: Minigame Base Player 0: Found player BashLocalPlayer_68 and controller BashPlayerController_0
+[2026.10.04-15.37.35:085][836]PIE: Server logged in
+[2026.10.04-15.37.35:087][836]PIE: Play in editor total start time 0.078 seconds.
+[2026.10.04-15.37.35:087][836]LogPlayLevel: Creating play world package: /Game/UEDPIE_1_MoonLakeBoatTest
+[2026.10.04-15.37.35:090][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002462s)
+[2026.10.04-15.37.35:090][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MoonLakeBoatTest.MoonLakeBoatTest to /Game/UEDPIE_1_MoonLakeBoatTest.MoonLakeBoatTest (0.002488s)
+[2026.10.04-15.37.35:114][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.10.04-15.37.35:118][836]LogTemp: WinRT Apartment initialized successfully!
+[2026.10.04-15.37.35:118][836]LogChaosDD: Creating Chaos Debug Draw Scene for world MoonLakeBoatTest
+[2026.10.04-15.37.35:119][836]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2026.10.04-15.37.35:119][836]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2026.10.04-15.37.35:119][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.04-15.37.35:119][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.04-15.37.35:119][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.04-15.37.35:119][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.04-15.37.35:120][836]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.04-15.37.35:120][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.04-15.37.35:120][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.04-15.37.35:120][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.04-15.37.35:120][836]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.04-15.37.35:120][836]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.04-15.37.35:120][836]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.04-15.37.35:122][836]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.04-15.37.35:138][836]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HGF (NVIDIA High Definition Audio)
+[2026.10.04-15.37.35:138][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.04-15.37.35:138][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.04-15.37.35:138][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.04-15.37.35:139][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=71
+[2026.10.04-15.37.35:139][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=71
+[2026.10.04-15.37.35:141][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=71
+[2026.10.04-15.37.35:141][836]LogInit: FAudioDevice initialized with ID 71.
+[2026.10.04-15.37.35:141][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=71
+[2026.10.04-15.37.35:141][836]LogAudio: Display: Audio Device (ID: 71) registered with world 'MoonLakeBoatTest'.
+[2026.10.04-15.37.35:141][836]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 71
+[2026.10.04-15.37.35:172][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.37.35:173][836]LogLoad: Game class is 'BP_MoonLakeBase_C'
+[2026.10.04-15.37.35:174][836]LogWorld: Bringing World /Game/UEDPIE_1_MoonLakeBoatTest.MoonLakeBoatTest up for play (max tick rate 0) at 2026.10.04-11.37.35
+[2026.10.04-15.37.35:174][836]LogWorld: Bringing up level for play took: 0.001217
+[2026.10.04-15.37.35:177][836]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2026.10.04-15.37.35:177][836]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2026.10.04-15.37.35:178][836]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.04-15.37.35:178][836]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.10.04-15.37.35:178][836]LogMinigameCore: Error: MinigameBase: Not enough players for this game type!
+[2026.10.04-15.37.35:178][836]LogMinigameCore: Warning: MinigameBase: No point counter found. Creating default point counter.
+[2026.10.04-15.37.35:178][836]LogTemp: Warning: Minigame Base Player 0: Found player BashLocalPlayer_69 and controller BashPlayerController_0
+[2026.10.04-15.37.35:186][836]PIE: Server logged in
+[2026.10.04-15.37.35:190][836]PIE: Play in editor total start time 0.181 seconds.
+[2026.10.04-15.37.35:190][836]LogPlayLevel: Creating play world package: /Game/UEDPIE_2_MoonLakeBoatTest
+[2026.10.04-15.37.35:192][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002719s)
+[2026.10.04-15.37.35:192][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MoonLakeBoatTest.MoonLakeBoatTest to /Game/UEDPIE_2_MoonLakeBoatTest.MoonLakeBoatTest (0.002746s)
+[2026.10.04-15.37.35:217][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.10.04-15.37.35:219][836]LogTemp: WinRT Apartment initialized successfully!
+[2026.10.04-15.37.35:219][836]LogChaosDD: Creating Chaos Debug Draw Scene for world MoonLakeBoatTest
+[2026.10.04-15.37.35:221][836]LogPlayLevel: PIE: World Init took: (0.001597s)
+[2026.10.04-15.37.35:222][836]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2026.10.04-15.37.35:222][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.04-15.37.35:222][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.04-15.37.35:222][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.04-15.37.35:222][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.04-15.37.35:222][836]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.04-15.37.35:222][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.04-15.37.35:222][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.04-15.37.35:222][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.04-15.37.35:222][836]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.04-15.37.35:222][836]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.04-15.37.35:222][836]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.04-15.37.35:224][836]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.04-15.37.35:241][836]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HGF (NVIDIA High Definition Audio)
+[2026.10.04-15.37.35:241][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.04-15.37.35:241][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.04-15.37.35:241][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.04-15.37.35:242][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=72
+[2026.10.04-15.37.35:242][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=72
+[2026.10.04-15.37.35:244][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=72
+[2026.10.04-15.37.35:244][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=72
+[2026.10.04-15.37.35:244][836]LogInit: FAudioDevice initialized with ID 72.
+[2026.10.04-15.37.35:244][836]LogAudio: Display: Audio Device (ID: 72) registered with world 'MoonLakeBoatTest'.
+[2026.10.04-15.37.35:244][836]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 72
+[2026.10.04-15.37.35:274][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.37.35:275][836]LogLoad: Game class is 'BP_MoonLakeBase_C'
+[2026.10.04-15.37.35:276][836]LogWorld: Bringing World /Game/UEDPIE_2_MoonLakeBoatTest.MoonLakeBoatTest up for play (max tick rate 0) at 2026.10.04-11.37.35
+[2026.10.04-15.37.35:276][836]LogWorld: Bringing up level for play took: 0.001023
+[2026.10.04-15.37.35:279][836]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2026.10.04-15.37.35:280][836]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2026.10.04-15.37.35:280][836]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.04-15.37.35:280][836]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.10.04-15.37.35:280][836]LogMinigameCore: Error: MinigameBase: Not enough players for this game type!
+[2026.10.04-15.37.35:281][836]LogMinigameCore: Warning: MinigameBase: No point counter found. Creating default point counter.
+[2026.10.04-15.37.35:281][836]LogTemp: Warning: Minigame Base Player 0: Found player BashLocalPlayer_70 and controller BashPlayerController_0
+[2026.10.04-15.37.35:288][836]PIE: Server logged in
+[2026.10.04-15.37.35:292][836]PIE: Play in editor total start time 0.284 seconds.
+[2026.10.04-15.37.35:293][836]LogPlayLevel: Creating play world package: /Game/UEDPIE_3_MoonLakeBoatTest
+[2026.10.04-15.37.35:295][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002746s)
+[2026.10.04-15.37.35:295][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MoonLakeBoatTest.MoonLakeBoatTest to /Game/UEDPIE_3_MoonLakeBoatTest.MoonLakeBoatTest (0.002778s)
+[2026.10.04-15.37.35:321][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.10.04-15.37.35:325][836]LogTemp: WinRT Apartment initialized successfully!
+[2026.10.04-15.37.35:325][836]LogChaosDD: Creating Chaos Debug Draw Scene for world MoonLakeBoatTest
+[2026.10.04-15.37.35:327][836]LogPlayLevel: PIE: World Init took: (0.001747s)
+[2026.10.04-15.37.35:328][836]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2026.10.04-15.37.35:328][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.04-15.37.35:328][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.04-15.37.35:328][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.04-15.37.35:328][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.04-15.37.35:328][836]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.04-15.37.35:328][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.04-15.37.35:328][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.04-15.37.35:328][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.04-15.37.35:328][836]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.04-15.37.35:328][836]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.04-15.37.35:328][836]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.04-15.37.35:329][836]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.04-15.37.35:346][836]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HGF (NVIDIA High Definition Audio)
+[2026.10.04-15.37.35:346][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.04-15.37.35:346][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.04-15.37.35:346][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.04-15.37.35:348][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=73
+[2026.10.04-15.37.35:348][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=73
+[2026.10.04-15.37.35:349][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=73
+[2026.10.04-15.37.35:349][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=73
+[2026.10.04-15.37.35:349][836]LogInit: FAudioDevice initialized with ID 73.
+[2026.10.04-15.37.35:349][836]LogAudio: Display: Audio Device (ID: 73) registered with world 'MoonLakeBoatTest'.
+[2026.10.04-15.37.35:349][836]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 73
+[2026.10.04-15.37.35:380][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.37.35:380][836]LogLoad: Game class is 'BP_MoonLakeBase_C'
+[2026.10.04-15.37.35:381][836]LogWorld: Bringing World /Game/UEDPIE_3_MoonLakeBoatTest.MoonLakeBoatTest up for play (max tick rate 0) at 2026.10.04-11.37.35
+[2026.10.04-15.37.35:381][836]LogWorld: Bringing up level for play took: 0.000948
+[2026.10.04-15.37.35:384][836]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2026.10.04-15.37.35:384][836]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2026.10.04-15.37.35:384][836]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.04-15.37.35:385][836]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.10.04-15.37.35:385][836]LogMinigameCore: Error: MinigameBase: Not enough players for this game type!
+[2026.10.04-15.37.35:385][836]LogMinigameCore: Warning: MinigameBase: No point counter found. Creating default point counter.
+[2026.10.04-15.37.35:386][836]LogTemp: Warning: Minigame Base Player 0: Found player BashLocalPlayer_71 and controller BashPlayerController_0
+[2026.10.04-15.37.35:393][836]PIE: Server logged in
+[2026.10.04-15.37.35:396][836]PIE: Play in editor total start time 0.387 seconds.
+[2026.10.04-15.37.35:402][836]LogMutable: Started Update Skeletal Mesh Async. CustomizableObject=CO_ModularCharacter Instance=CustomizableObjectInstance_68, Frame=2153838
+[2026.10.04-15.37.35:444][836]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.04-15.37.35:606][836]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.04-15.37.36:742][836]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.04-15.37.37:501][837]LogCsvProfiler: Display: Metadata set : systemresolution.resx="640"
+[2026.10.04-15.37.37:502][837]LogCsvProfiler: Display: Metadata set : systemresolution.resy="480"
+[2026.10.04-15.37.38:497][837]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.04-15.37.41:448][839]LogMutable: Started Update Skeletal Mesh Async. CustomizableObject=CO_ModularCharacter Instance=CustomizableObjectInstance_69, Frame=2153841
+[2026.10.04-15.37.42:044][840]LogSlate: Took 0.007862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.10.04-15.37.43:609][843]LogMutable: Started Update Skeletal Mesh Async. CustomizableObject=CO_ModularCharacter Instance=CustomizableObjectInstance_70, Frame=2153845
+[2026.10.04-15.37.43:965][847]LogMutable: Started Update Skeletal Mesh Async. CustomizableObject=CO_ModularCharacter Instance=CustomizableObjectInstance_71, Frame=2153849
+[2026.10.04-15.37.43:965][847]LogMutable: Disabling "Started Update Skeletal Mesh Async" log during 5.000000 seconds due to spam
+[2026.10.04-15.37.48:111][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.37.48:111][892]LogWorld: BeginTearingDown for /Game/UEDPIE_3_MoonLakeBoatTest
+[2026.10.04-15.37.48:111][892]LogSlate: Window 'MoonJam Preview [NetMode: Standalone 3]  (64-bit/PC D3D SM6)' being destroyed
+[2026.10.04-15.37.48:395][892]LogTemp: Warning: Deinitialize Bluetooth Manager Subsystem
+[2026.10.04-15.37.48:395][892]LogWorld: UWorld::CleanupWorld for MoonLakeBoatTest, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-15.37.48:395][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.37.48:396][892]LogWorld: BeginTearingDown for /Game/UEDPIE_2_MoonLakeBoatTest
+[2026.10.04-15.37.48:396][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.37.48:397][892]LogSlate: Window 'MoonJam Preview [NetMode: Standalone 2]  (64-bit/PC D3D SM6)' being destroyed
+[2026.10.04-15.37.48:407][892]LogTemp: Warning: Deinitialize Bluetooth Manager Subsystem
+[2026.10.04-15.37.48:407][892]LogWorld: UWorld::CleanupWorld for MoonLakeBoatTest, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-15.37.48:408][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.37.48:408][892]LogWorld: BeginTearingDown for /Game/UEDPIE_1_MoonLakeBoatTest
+[2026.10.04-15.37.48:409][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.37.48:409][892]LogSlate: Window 'MoonJam Preview [NetMode: Standalone 1]  (64-bit/PC D3D SM6)' being destroyed
+[2026.10.04-15.37.48:424][892]LogTemp: Warning: Deinitialize Bluetooth Manager Subsystem
+[2026.10.04-15.37.48:424][892]LogWorld: UWorld::CleanupWorld for MoonLakeBoatTest, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-15.37.48:425][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.37.48:426][892]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MoonLakeBoatTest
+[2026.10.04-15.37.48:426][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.37.48:426][892]LogTemp: Warning: Deinitialize Bluetooth Manager Subsystem
+[2026.10.04-15.37.48:427][892]LogWorld: UWorld::CleanupWorld for MoonLakeBoatTest, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-15.37.48:427][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.37.48:428][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.04-15.37.48:436][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.37.48:462][892]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.04-15.37.48:464][892]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 73
+[2026.10.04-15.37.48:464][892]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73, StreamState=4
+[2026.10.04-15.37.48:466][892]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73, StreamState=2
+[2026.10.04-15.37.48:471][892]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 72
+[2026.10.04-15.37.48:471][892]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72, StreamState=4
+[2026.10.04-15.37.48:472][892]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72, StreamState=2
+[2026.10.04-15.37.48:476][892]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 71
+[2026.10.04-15.37.48:476][892]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71, StreamState=4
+[2026.10.04-15.37.48:478][892]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71, StreamState=2
+[2026.10.04-15.37.48:481][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.37.48:482][892]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 70
+[2026.10.04-15.37.48:482][892]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70, StreamState=4
+[2026.10.04-15.37.48:483][892]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70, StreamState=2
+[2026.10.04-15.37.48:491][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.10.04-15.37.49:761][893]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2026.10.04-15.37.49:762][893]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2026.10.04-15.37.49:763][893]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2026.10.04-15.37.49:765][893]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2026.10.04-15.37.59:503][552]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.04-15.37.59:512][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.04-15.37.59:516][552]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.10.04-15.37.59:516][552]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.10.04-15.37.59:516][552]LogPlayLevel: Display: Creating online subsystem for client :Context_86
+[2026.10.04-15.37.59:517][552]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2026.10.04-15.37.59:541][553]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MoonLakeBoatTest
+[2026.10.04-15.37.59:545][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003429s)
+[2026.10.04-15.37.59:545][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MoonLakeBoatTest.MoonLakeBoatTest to /Game/UEDPIE_0_MoonLakeBoatTest.MoonLakeBoatTest (0.003490s)
+[2026.10.04-15.37.59:570][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.10.04-15.37.59:575][553]LogTemp: WinRT Apartment initialized successfully!
+[2026.10.04-15.37.59:575][553]LogChaosDD: Creating Chaos Debug Draw Scene for world MoonLakeBoatTest
+[2026.10.04-15.37.59:577][553]LogPlayLevel: PIE: World Init took: (0.001690s)
+[2026.10.04-15.37.59:578][553]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2026.10.04-15.37.59:578][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.04-15.37.59:578][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.04-15.37.59:578][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.04-15.37.59:578][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.04-15.37.59:578][553]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.04-15.37.59:578][553]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.04-15.37.59:578][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.04-15.37.59:578][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.04-15.37.59:578][553]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.04-15.37.59:578][553]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.04-15.37.59:578][553]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.04-15.37.59:579][553]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.04-15.37.59:599][553]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HGF (NVIDIA High Definition Audio)
+[2026.10.04-15.37.59:599][553]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.04-15.37.59:599][553]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.04-15.37.59:600][553]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.04-15.37.59:600][553]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=74
+[2026.10.04-15.37.59:600][553]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=74
+[2026.10.04-15.37.59:603][553]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=74
+[2026.10.04-15.37.59:603][553]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=74
+[2026.10.04-15.37.59:603][553]LogInit: FAudioDevice initialized with ID 74.
+[2026.10.04-15.37.59:603][553]LogAudio: Display: Audio Device (ID: 74) registered with world 'MoonLakeBoatTest'.
+[2026.10.04-15.37.59:603][553]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 74
+[2026.10.04-15.37.59:610][553]LogLoad: Game class is 'BP_MoonLakeBase_C'
+[2026.10.04-15.37.59:611][553]LogWorld: Bringing World /Game/UEDPIE_0_MoonLakeBoatTest.MoonLakeBoatTest up for play (max tick rate 0) at 2026.10.04-11.37.59
+[2026.10.04-15.37.59:611][553]LogWorld: Bringing up level for play took: 0.001245
+[2026.10.04-15.37.59:612][553]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2026.10.04-15.37.59:612][553]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.10.04-15.37.59:612][553]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.10.04-15.37.59:612][553]LogMinigameCore: Error: MinigameBase: Not enough players for this game type!
+[2026.10.04-15.37.59:612][553]LogMinigameCore: Warning: MinigameBase: No point counter found. Creating default point counter.
+[2026.10.04-15.37.59:613][553]LogTemp: Warning: Minigame Base Player 0: Found player BashLocalPlayer_72 and controller BashPlayerController_0
+[2026.10.04-15.37.59:616][553]PIE: Server logged in
+[2026.10.04-15.37.59:620][553]PIE: Play in editor total start time 0.108 seconds.
+[2026.10.04-15.37.59:625][553]LogMutable: Started Update Skeletal Mesh Async. CustomizableObject=CO_ModularCharacter Instance=CustomizableObjectInstance_72, Frame=2154555
+[2026.10.04-15.37.59:671][554]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.04-15.38.02:741][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.38.02:741][801]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MoonLakeBoatTest
+[2026.10.04-15.38.02:741][801]LogTemp: Warning: Deinitialize Bluetooth Manager Subsystem
+[2026.10.04-15.38.02:741][801]LogWorld: UWorld::CleanupWorld for MoonLakeBoatTest, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-15.38.02:741][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.38.02:743][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.04-15.38.02:748][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-15.38.02:771][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.04-15.38.02:771][801]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 74
+[2026.10.04-15.38.02:771][801]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74, StreamState=4
+[2026.10.04-15.38.02:773][801]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74, StreamState=2
+[2026.10.04-15.38.02:780][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.10.04-15.38.02:857][802]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2026.10.04-15.38.03:827][873]LogSlate: Window 'Message Log' being destroyed
+[2026.10.04-15.38.03:840][873]LogSlate: Window 'Message Log' being destroyed
