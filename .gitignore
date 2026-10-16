@@ -79,3 +79,5 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 /MoonJam/Intermediate
 /MoonJam/Intermediate
+/MoonJam/Saved
+*.bin
